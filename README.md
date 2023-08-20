@@ -3,6 +3,6 @@
 Proyecto con temática de pie diabético.
 
 Integrantes:
-- Alexys Caytano Meléndez
-- Adrián Hernández Vega
-- Carlos Zegarra Sialer
+- Alexys Ramiro Caytano Meléndez
+- Adrián Ismael Hernández Vega
+- Carlos Alberto Zegarra Sialer
