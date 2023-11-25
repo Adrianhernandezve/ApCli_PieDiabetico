@@ -7,4 +7,3 @@ Integrantes:
 - Adrián Ismael Hernández Vega
 - Carlos Alberto Zegarra Sialer
 
-La temática del proyecto está por verse según la reunión con la profesora
